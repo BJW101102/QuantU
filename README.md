@@ -1,4 +1,4 @@
 # QuantU
-**Description**: Semester long stock trading project created in CSC-3380: Object Oriented Design. 
-* Found attached below is the collabrative repository that displays our purspose, solution, technologies, code, and final product.
+**Description**: I participated in a semester-long stock trading project within the course CSC-3380: Object-Oriented Design. Our aim was to simplify trading for beginners, resulting in the development of a website. This platform grants users access to machine learning-generated stock price predictions and allows them to practice trading using simulated in-built currency. Furthermore, users can monitor their expected net gain or loss and maintain a portfolio of their trading activities.
+* **Personal Repository:** In this repository, you'll find my code for the project's front-end. I created a user-friendly search bar for company selection, featuring a convenient dropdown menu. Additionally, I designed the stock trading page, offering users real-time stock information, predictive graphs, and a one-click trading option. Found attached below is the collabrative repository that displays our purspose, solution, technologies, code, and final product.
 * Link to Collabrative Repository: https://github.com/PeyPeyPG/SWMG
